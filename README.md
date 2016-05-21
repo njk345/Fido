@@ -18,3 +18,5 @@ Send us a pull request. If you are looking for things to do, check out the repo'
 [![Author](http://wsbadge.herokuapp.com/badge/Author-Joshua_Gruenstein-red.svg)](https://github.com/joshuagruenstein)
 
 [![Contributor](http://wsbadge.herokuapp.com/badge/Contributor-Henry_Wildermuth-blue.svg)](https://github.com/FlyingGraysons)
+
+[![Editor](http://wsbadge.herokuapp.com/badge/Contributor-Nick_Keirstead-blue.svg)](https://github.com/njk345)
